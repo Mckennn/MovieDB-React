@@ -1,0 +1,12 @@
+{
+  "name": "premiere-appli",
+  "displayName": "premiere-appli",
+  "expo": {
+    "name": "premiere-appli",
+    "slug": "premiere-appli",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
